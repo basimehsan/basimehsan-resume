@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Resume"
 ---
 
-I'm glad you are here. I plan to talk about ...
+[r2.pdf](https://github.com/basimehsan/basimehsan-resume/files/8132352/r2.pdf)
